@@ -64,5 +64,6 @@ const slides = [
 	updateContent();
   });
   
-
+  // Initialisation du contenu
+  updateContent();
   
